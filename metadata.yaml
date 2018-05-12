@@ -1,0 +1,39 @@
+_repo: Upon-The-Tree-Tops_31269
+_version: 0.1.0
+contributor:
+  illustrator:
+    agent_name: Beard, James Carter
+    alias: Beard, J. Carter (James Carter)
+    birthdate: 1837
+    deathdate: 1913
+    gutenberg_agent_id: '35110'
+    url: http://www.gutenberg.org/2009/agents/35110
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Miller, Olive Thorne
+    aliases:
+    - Thorne, Olive
+    - Mann, Harriet
+    - Miller, Harriet Mann
+    birthdate: 1831
+    deathdate: 1918
+    gutenberg_agent_id: '31220'
+    url: http://www.gutenberg.org/2009/agents/31220
+    wikipedia: http://en.wikipedia.org/wiki/Harriet_Mann_Miller
+description: ''
+gutenberg_issued: '2010-02-13'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '31269'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'QL'
+- !lcsh 'Birds'
+title: Upon The Tree-Tops
+url: http://www.gutenberg.org/ebooks/31269
